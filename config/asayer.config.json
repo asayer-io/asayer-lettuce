@@ -1,0 +1,15 @@
+{
+  "apikey": "ASAYER API KEY",
+  "server": "https://hub.asayer.io/wd/hub",
+  "name": "Testing Lettuce with Asayer",
+  "build": "",
+  "tunnelId": "",
+  "capabilities": {    
+    "browser": "chrome",
+    "platform": "any",
+    "flags": {
+      "--incognito": true,
+      "--start-fullscreen": true
+    }
+  }
+}

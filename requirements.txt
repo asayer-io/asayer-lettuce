@@ -1,0 +1,4 @@
+lettuce
+selenium
+lettuce_webdriver
+nose
