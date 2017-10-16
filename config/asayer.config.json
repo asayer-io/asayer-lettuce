@@ -4,8 +4,8 @@
   "name": "Testing Lettuce with Asayer",
   "build": "",
   "tunnelId": "",
-  "capabilities": {    
-    "browser": "chrome",
+  "capabilities": {
+    "browserName": "chrome",
     "platform": "any",
     "flags": {
       "--incognito": true,
