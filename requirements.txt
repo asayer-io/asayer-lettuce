@@ -1,5 +1,4 @@
 lettuce
 selenium
-lettuce_webdriver
 nose
 requests
